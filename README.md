@@ -1,4 +1,4 @@
-<img width="955" alt="image" src="https://user-images.githubusercontent.com/96287600/214586293-7de66e46-5699-49f5-aa35-5180b8766003.png">
+[<img width="955" alt="image" src="https://user-images.githubusercontent.com/96287600/214586293-7de66e46-5699-49f5-aa35-5180b8766003.png">](https://abdrauf26.github.io/learning_microbit_proj/)
 
 ## Built With 💻
 
