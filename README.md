@@ -1,6 +1,10 @@
+<img width="608" alt="image" src="https://user-images.githubusercontent.com/96287600/214583384-6716bb6c-8da2-4d32-ac27-da7d8754d11a.png">
+
+## Built With 💻
+
+- [Microsoft micro:bit](https://makecode.microbit.org/)
 
 > Open this page at [https://abdrauf26.github.io/learning_microbit_proj/](https://abdrauf26.github.io/learning_microbit_proj/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
