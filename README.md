@@ -24,9 +24,6 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
 <img width="642" alt="image" src="https://user-images.githubusercontent.com/96287600/215228709-49d37323-2368-4e79-aff2-fac6e6436418.png">
 
 
