@@ -14,7 +14,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/abdrauf26/learning_microbit_proj** and import
 
-## Edit this project ![Build status badge](https://github.com/abdrauf26/learning_microbit_proj/workflows/MakeCode/badge.svg)
+## Edit this project 
 
 To edit this repository in MakeCode.
 
@@ -28,6 +28,9 @@ This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/abdrauf26/learning_microbit_proj/raw/master/.github/makecode/blocks.png)
+
+<img width="642" alt="image" src="https://user-images.githubusercontent.com/96287600/215228709-49d37323-2368-4e79-aff2-fac6e6436418.png">
+
 
 #### Metadata (used for search, rendering)
 
